@@ -1,10 +1,10 @@
 # Advanced JavaScript Fundamentals
 
-## 3. Prototypes
+## 2. Prototypes
 
 [Lesson 2 instructor notes](https://github.com/twclark0/advanced-javascript-fundamentals/tree/master/lesson-2)
 
-**What are prototypes?
+**What are prototypes?**
 
 - Fundamentally how inheritance works in JS.
 - Prototypes are the linkeage between objects through properties, called the prototype chain.
@@ -31,8 +31,6 @@ The 'new' keyword has 3 main things it is doing, and a fourth one not used often
 3. The ```this``` keyword within called function points to the new object created.
 4. It returns ‘this’, the new object.
 
-
-
 ### Loops with prototypes
 
 - Loop behavior changes if objects have chained prototype objects.
@@ -48,7 +46,7 @@ When using prototypes, favor Object.create as opposed to the new keyword.
 If you do want to mess around with prototypes, favor Object.create.
 
 
-##Additional notes/resources:
+## Additional notes/resources:
 
 - Whenever you see a new Ecmascript release that says “added to the prototype” that means you don’t have to reference the global constructor function to utilize this. That means that you can just dot onto it from the instance if its a prototype method.
 

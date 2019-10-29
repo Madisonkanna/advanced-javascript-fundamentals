@@ -2,8 +2,7 @@
 
 ## 7. Closure
 
-[Lesson 7]https://github.com/twclark0/advanced-javascript-fundamentals/blob/master/lesson-7/notes.md)
-
+[Lesson 7 instructor notes](https://github.com/twclark0/advanced-javascript-fundamentals/blob/master/lesson-7/notes.md)
 
 An inner function that has access to its lexical scope.
 Represents an inner function enclosed by another function. 

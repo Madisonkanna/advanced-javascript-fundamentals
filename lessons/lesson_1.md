@@ -2,6 +2,8 @@
 
 ## 1. Primitive types
 
+[Lesson 1 instructor notes](https://github.com/twclark0/advanced-javascript-fundamentals/tree/master/lesson-1)
+
 Before we talk about primitive types, first what is a type?
 
 Types are ways of organizing data that has similar values. When you give something a type, it is easier to know how to handle what you are working with. For example, it’s easier to know what to do with an array once you know it **is** an array.
