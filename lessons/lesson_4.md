@@ -4,7 +4,7 @@
 
 [Lesson 4 instructor notes](https://github.com/twclark0/advanced-javascript-fundamentals/blob/master/lesson-4/notes.md)
 
-```This``` references the execution context of a function call. which is determined how the function was called and in non-strict mode, is always a reference to an object.ws
+```This``` references the execution context of a function call. which is determined how the function was called and in non-strict mode, is always a reference to an object.
 
 In interview questions, this has got to be the number one most asked question. Easy to get tripped up on. It’s not the same thing every time a function is called. It all depends on how it was written and more importantly it
 s all about how a function was actually called.
