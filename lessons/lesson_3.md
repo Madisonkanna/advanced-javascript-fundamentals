@@ -8,7 +8,7 @@
 
 You actually rely on coercion for so much of what you do every day. To understand your code, you have to interpret code like JS.
 
-## Impliciic coercion.
+## Implicit coercion.
 
 Implicit coercion is a way to abstract those lower details to provide more focus for the developer. For example the double equals. Are the explicit coercions distracting to the reader? 
 
